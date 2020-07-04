@@ -1,9 +1,13 @@
 * {
     box-sizing: border-box;
     font-family: Helvetica;
+    
 }
 
- background-color: #d6d6d6;
+body{
+
+    background-color: #FFCCCC;
+
 }
 
 h1 {
